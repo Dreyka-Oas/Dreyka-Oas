@@ -33,18 +33,6 @@ C'est mon bac à sable pour tester des moteurs de jeux, des scripts d'automatisa
 
 ---
 
-### 📊 Données du Labo
-
-<div align="center">
-  <!-- CARTES DE STATS ANIMÉES (THEME VIOLET/DARK) -->
-  <a href="https://github.com/Dreyka-Oas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dreyka-Oas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreyka-Oas&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
 ### 🛠️ Arsenal Technique
 
 <div align="center">
