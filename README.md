@@ -1,60 +1,74 @@
 <div align="center">
 
-  # 🧪 Dreyka Oas
-  
-  ### **Laboratoire de Développement & Expérimentations**
-  
+  <!-- EN-TÊTE ANIMÉ (TYPING EFFECT) -->
+  <a href="https://github.com/Dreyka-Oas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Dreyka+Oas;Laboratoire+Cr%C3%A9atif;Game+Dev+%26+Exp%C3%A9rimentations;Code+is+Art" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <!-- STATUT ACTUEL -->
   <p>
     <a href="https://github.com/Dreyka-Oas">
-      <img src="https://img.shields.io/badge/STATUS-OPEN_SOURCE-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-    </a>
-    <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/DISCORD-COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/STATUS-EN_MODE_CRÉATIF-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Open Source" />
     </a>
   </p>
 
   <br />
 
-  > *"Imaginer, Coder, Déployer. Ici, pas de consignes, juste de la création."*
+  > *"Pas de cahier des charges ici. Juste du code, des pixels et des idées."*
 
 </div>
 
 ---
 
-### 🚀 À propos de ce profil
+### 🔮 Le Laboratoire
 
-Bienvenue dans mon **espace créatif**. Contrairement à mon profil académique, ici, je laisse libre cours à mon imagination et à mes envies techniques.
-C'est ici que je teste de nouvelles technos, que je développe des outils pratiques ou des jeux, et que je m'amuse avec le code.
+Bienvenue dans ma zone de test. Contrairement à mon profil académique, ici je brise les règles pour voir ce qui se passe.
+C'est mon bac à sable pour tester des moteurs de jeux, des scripts d'automatisation ou des architectures bizarres.
 
-Ce que vous trouverez ici :
-*   🎮 **Game Dev** : Projets de jeux web, canvas 2D et expériences interactives.
-*   🛠️ **Outils & Utilitaires** : Scripts d'automatisation (Bash/Python), générateurs (LogoCreator) et panels d'administration.
-*   🌐 **Fullstack & Système** : Expérimentations avec Node.js, WebSockets, Linux et WSL.
+*   🕹️ **Jeux Web & 2D** : Création d'expériences interactives sans serveur.
+*   🔧 **Outils Custom** : Scripts Bash, générateurs et panels d'admin.
+*   🧪 **R&D** : Tests de nouvelles stacks et prototypage rapide.
 
 ---
 
-### 🛠️ Stack Technique (Le terrain de jeu)
+### 📊 Données du Labo
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <!-- CARTES DE STATS ANIMÉES (THEME VIOLET/DARK) -->
+  <a href="https://github.com/Dreyka-Oas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dreyka-Oas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreyka-Oas&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
 
-### 🎓 Profil Professionnel
+### 🛠️ Arsenal Technique
 
-Si vous cherchez mes projets réalisés dans un cadre **scolaire, certifiant ou rigoureusement académique** (École 42, etc.), je vous invite à consulter mon profil principal :
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
+
+---
+
+### 🎓 Accès Profil Pro
+
+Pour consulter mes projets certifiés, structurés et académiques (École 42), veuillez vous rediriger vers le portail principal :
 
 <div align="center">
   <br/>
   <a href="https://github.com/LetermeFlorent">
-    <img src="https://img.shields.io/badge/VOIR_MON_PORTFOLIO_ACADÉMIQUE-Florent_Leterme-000000?style=for-the-badge&logo=42&logoColor=white" alt="Profil Pro" />
+    <img src="https://img.shields.io/badge/PORTFOLIO_ACADÉMIQUE-Florent_Leterme-ffffff?style=for-the-badge&logo=42&logoColor=black&labelColor=gray" alt="Profil Pro" />
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e5494&height=60&section=footer" width="100%"/>
+<!-- PIED DE PAGE ANIMÉ (VAGUE) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=80&section=footer" width="100%"/>
