@@ -22,12 +22,16 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <!--START_SECTION:stack-->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js&perline=10" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=java,js,c&perline=10" alt="Stack" />
 </div>
 
 <div align="center">
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-100.0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-97.5%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-1.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C](https://img.shields.io/badge/C-0.49%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+  ![Batchfile](https://img.shields.io/badge/Batchfile-0.47%25-555555?style=for-the-badge)
+  ![GLSL](https://img.shields.io/badge/GLSL-0.20%25-6E7681?style=for-the-badge)
 
 </div>
 <!--END_SECTION:stack-->
@@ -37,10 +41,10 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 <!--START_SECTION:stats-->
 <div align="center">
 
-  ![Repos_publics](https://img.shields.io/badge/Repos__publics-1-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
+  ![Repos_publics](https://img.shields.io/badge/Repos__publics-2-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
   ![Etoiles](https://img.shields.io/badge/Etoiles-0-F1C40F?style=for-the-badge&logo=github&logoColor=white)
-  ![Langue_principale](https://img.shields.io/badge/Langue__principale-JavaScript-00B894?style=for-the-badge)
-  ![Langues](https://img.shields.io/badge/Langues-1-0984E3?style=for-the-badge)
+  ![Langue_principale](https://img.shields.io/badge/Langue__principale-Java-00B894?style=for-the-badge)
+  ![Langues](https://img.shields.io/badge/Langues-5-0984E3?style=for-the-badge)
 
 </div>
 <!--END_SECTION:stats-->
