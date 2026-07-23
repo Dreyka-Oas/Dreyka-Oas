@@ -22,12 +22,12 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <!--START_SECTION:stack-->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,css,python,html,rust&perline=10" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=js&perline=10" alt="Stack" />
 </div>
 
 <div align="center">
 
-  ![PHP](https://img.shields.io/badge/PHP-56.3%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-100.0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 <!--END_SECTION:stack-->
@@ -38,6 +38,9 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 <div align="center">
 
   ![Repos_publics](https://img.shields.io/badge/Repos__publics-1-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
+  ![Etoiles](https://img.shields.io/badge/Etoiles-0-F1C40F?style=for-the-badge&logo=github&logoColor=white)
+  ![Langue_principale](https://img.shields.io/badge/Langue__principale-JavaScript-00B894?style=for-the-badge)
+  ![Langues](https://img.shields.io/badge/Langues-1-0984E3?style=for-the-badge)
 
 </div>
 <!--END_SECTION:stats-->
@@ -45,7 +48,7 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-_Aucune activité publique récente._
+1. ⬆️ 1 commit poussé sur [Dreyka-Oas/Dreyka-Oas](https://github.com/Dreyka-Oas/Dreyka-Oas)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
