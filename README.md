@@ -27,11 +27,11 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <div align="center">
 
-  ![Java](https://img.shields.io/badge/Java-97.5%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-1.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![C](https://img.shields.io/badge/C-0.49%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-  ![Batchfile](https://img.shields.io/badge/Batchfile-0.46%25-555555?style=for-the-badge)
-  ![GLSL](https://img.shields.io/badge/GLSL-0.20%25-6E7681?style=for-the-badge)
+  ![Java](https://img.shields.io/badge/Java-97.6%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-1.3%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C](https://img.shields.io/badge/C-0.46%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+  ![Batchfile](https://img.shields.io/badge/Batchfile-0.43%25-555555?style=for-the-badge)
+  ![GLSL](https://img.shields.io/badge/GLSL-0.19%25-6E7681?style=for-the-badge)
 
 </div>
 <!--END_SECTION:stack-->
