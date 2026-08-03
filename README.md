@@ -22,16 +22,17 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <!--START_SECTION:stack-->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,c&perline=10" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=java,js,c,bash&perline=10" alt="Stack" />
 </div>
 
 <div align="center">
 
-  ![Java](https://img.shields.io/badge/Java-97.8%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-97.7%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-1.2%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![C](https://img.shields.io/badge/C-0.42%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
   ![Batchfile](https://img.shields.io/badge/Batchfile-0.40%25-555555?style=for-the-badge)
   ![GLSL](https://img.shields.io/badge/GLSL-0.17%25-6E7681?style=for-the-badge)
+  ![Shell](https://img.shields.io/badge/Shell-0.11%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 <!--END_SECTION:stack-->
@@ -41,10 +42,10 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 <!--START_SECTION:stats-->
 <div align="center">
 
-  ![Repos_publics](https://img.shields.io/badge/Repos__publics-2-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
+  ![Repos_publics](https://img.shields.io/badge/Repos__publics-3-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
   ![Etoiles](https://img.shields.io/badge/Etoiles-0-F1C40F?style=for-the-badge&logo=github&logoColor=white)
   ![Langue_principale](https://img.shields.io/badge/Langue__principale-Java-00B894?style=for-the-badge)
-  ![Langues](https://img.shields.io/badge/Langues-5-0984E3?style=for-the-badge)
+  ![Langues](https://img.shields.io/badge/Langues-6-0984E3?style=for-the-badge)
 
 </div>
 <!--END_SECTION:stats-->
@@ -52,10 +53,12 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-2. ✨ branch créé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-3. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-4. ⬆️ 1 commit poussé sur [Dreyka-Oas/Dreyka-Oas](https://github.com/Dreyka-Oas/Dreyka-Oas)
+1. ⬆️ 1 commit poussé sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+2. 🐛 issue opened sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+3. 🐛 issue closed sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+4. 💬 commentaire sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+5. ✨ branch créé sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+6. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
