@@ -27,12 +27,12 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <div align="center">
 
-  ![Java](https://img.shields.io/badge/Java-98.4%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-0.82%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![C](https://img.shields.io/badge/C-0.29%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-  ![Batchfile](https://img.shields.io/badge/Batchfile-0.28%25-555555?style=for-the-badge)
-  ![GLSL](https://img.shields.io/badge/GLSL-0.12%25-6E7681?style=for-the-badge)
-  ![Shell](https://img.shields.io/badge/Shell-0.08%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-98.6%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0.74%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C](https://img.shields.io/badge/C-0.27%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+  ![Batchfile](https://img.shields.io/badge/Batchfile-0.25%25-555555?style=for-the-badge)
+  ![GLSL](https://img.shields.io/badge/GLSL-0.11%25-6E7681?style=for-the-badge)
+  ![Shell](https://img.shields.io/badge/Shell-0.07%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 <!--END_SECTION:stack-->
@@ -53,8 +53,8 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-2. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+1. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+2. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
 3. ⬆️ 1 commit poussé sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 4. 🐛 issue opened sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 5. 🐛 issue closed sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
