@@ -28,10 +28,10 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 <div align="center">
 
   ![Java](https://img.shields.io/badge/Java-98.6%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-0.74%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0.71%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![C](https://img.shields.io/badge/C-0.26%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-  ![Batchfile](https://img.shields.io/badge/Batchfile-0.25%25-555555?style=for-the-badge)
-  ![GLSL](https://img.shields.io/badge/GLSL-0.11%25-6E7681?style=for-the-badge)
+  ![Batchfile](https://img.shields.io/badge/Batchfile-0.24%25-555555?style=for-the-badge)
+  ![GLSL](https://img.shields.io/badge/GLSL-0.10%25-6E7681?style=for-the-badge)
   ![Shell](https://img.shields.io/badge/Shell-0.07%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
