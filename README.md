@@ -53,12 +53,12 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-2. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-3. ⬆️ 1 commit poussé sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
-4. 🐛 issue opened sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
-5. 🐛 issue closed sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
-6. 💬 commentaire sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+1. ✨ branch créé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+2. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+3. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+4. ⬆️ 1 commit poussé sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+5. 🐛 issue opened sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+6. 🐛 issue closed sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
