@@ -27,11 +27,10 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <div align="center">
 
-  ![Java](https://img.shields.io/badge/Java-98.7%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-0.62%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![C](https://img.shields.io/badge/C-0.22%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-98.9%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0.61%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C](https://img.shields.io/badge/C-0.24%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
   ![Shell](https://img.shields.io/badge/Shell-0.21%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-  ![Batchfile](https://img.shields.io/badge/Batchfile-0.14%25-555555?style=for-the-badge)
   ![GLSL](https://img.shields.io/badge/GLSL-0.09%25-6E7681?style=for-the-badge)
 
 </div>
@@ -45,7 +44,7 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
   ![Repos_publics](https://img.shields.io/badge/Repos__publics-3-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
   ![Etoiles](https://img.shields.io/badge/Etoiles-0-F1C40F?style=for-the-badge&logo=github&logoColor=white)
   ![Langue_principale](https://img.shields.io/badge/Langue__principale-Java-00B894?style=for-the-badge)
-  ![Langues](https://img.shields.io/badge/Langues-6-0984E3?style=for-the-badge)
+  ![Langues](https://img.shields.io/badge/Langues-5-0984E3?style=for-the-badge)
 
 </div>
 <!--END_SECTION:stats-->
@@ -53,9 +52,9 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-2. ✨ branch créé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-3. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+1. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+2. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+3. ✨ branch créé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
 4. ⬆️ 1 commit poussé sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 5. 🐛 issue opened sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 6. 🐛 issue closed sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
