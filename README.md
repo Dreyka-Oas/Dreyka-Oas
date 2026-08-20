@@ -27,9 +27,9 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <div align="center">
 
-  ![Java](https://img.shields.io/badge/Java-61.4%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-61.2%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-19.3%25-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/Svelte-11.9%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+  ![Svelte](https://img.shields.io/badge/Svelte-12.2%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-6.0%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-0.56%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![CSS](https://img.shields.io/badge/CSS-0.48%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
