@@ -60,7 +60,7 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 3. 🗑️ tag supprimé sur [Dreyka-Oas/chartographer](https://github.com/Dreyka-Oas/chartographer)
 4. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
 5. ✨ branch créé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-6. ⬆️ 1 commit poussé sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+6. 🐛 issue opened sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
