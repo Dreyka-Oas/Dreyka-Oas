@@ -55,11 +55,11 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-2. ⬆️ 1 commit poussé sur [Dreyka-Oas/chartographer](https://github.com/Dreyka-Oas/chartographer)
-3. 🗑️ tag supprimé sur [Dreyka-Oas/chartographer](https://github.com/Dreyka-Oas/chartographer)
-4. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-5. ✨ branch créé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+1. ✨ branch créé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+2. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+3. ⬆️ 1 commit poussé sur [Dreyka-Oas/chartographer](https://github.com/Dreyka-Oas/chartographer)
+4. 🗑️ tag supprimé sur [Dreyka-Oas/chartographer](https://github.com/Dreyka-Oas/chartographer)
+5. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
 6. 🐛 issue opened sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 <!--END_SECTION:activity-->
 
