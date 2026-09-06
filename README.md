@@ -55,11 +55,10 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-2. ⬆️ 1 commit poussé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
+1. ⬆️ 1 commit poussé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
+2. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
 3. ✨ branch créé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
 4. ⬆️ 1 commit poussé sur [Dreyka-Oas/chartographer](https://github.com/Dreyka-Oas/chartographer)
-5. 🗑️ tag supprimé sur [Dreyka-Oas/chartographer](https://github.com/Dreyka-Oas/chartographer)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
