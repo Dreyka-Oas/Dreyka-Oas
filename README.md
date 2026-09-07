@@ -27,8 +27,8 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <div align="center">
 
-  ![Java](https://img.shields.io/badge/Java-65.7%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-17.0%25-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-65.9%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-16.9%25-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![Svelte](https://img.shields.io/badge/Svelte-10.7%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-5.3%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-0.49%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,8 +55,8 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
-2. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+1. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+2. ⬆️ 1 commit poussé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
 3. ✨ branch créé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
 <!--END_SECTION:activity-->
 
