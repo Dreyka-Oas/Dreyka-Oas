@@ -27,14 +27,14 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <div align="center">
 
-  ![Java](https://img.shields.io/badge/Java-65.9%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-16.9%25-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/Svelte-10.7%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-5.3%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-0.49%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![CSS](https://img.shields.io/badge/CSS-0.42%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![C](https://img.shields.io/badge/C-0.13%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-  ![Shell](https://img.shields.io/badge/Shell-0.12%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-68.2%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-15.8%25-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![Svelte](https://img.shields.io/badge/Svelte-10.0%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-4.9%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0.46%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![CSS](https://img.shields.io/badge/CSS-0.39%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![C](https://img.shields.io/badge/C-0.12%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+  ![Shell](https://img.shields.io/badge/Shell-0.11%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 <!--END_SECTION:stack-->
