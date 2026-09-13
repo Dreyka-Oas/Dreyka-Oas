@@ -22,19 +22,19 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <!--START_SECTION:stack-->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,rust,svelte,ts,js,css,c,bash&perline=10" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=java,rust,svelte,ts,js,css,python,bash&perline=10" alt="Stack" />
 </div>
 
 <div align="center">
 
-  ![Java](https://img.shields.io/badge/Java-68.2%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-15.8%25-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/Svelte-10.0%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-4.9%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-0.46%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![CSS](https://img.shields.io/badge/CSS-0.39%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![C](https://img.shields.io/badge/C-0.12%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-  ![Shell](https://img.shields.io/badge/Shell-0.11%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-64.4%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-17.4%25-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![Svelte](https://img.shields.io/badge/Svelte-11.0%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-5.4%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0.50%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![CSS](https://img.shields.io/badge/CSS-0.43%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-0.41%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Shell](https://img.shields.io/badge/Shell-0.17%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 <!--END_SECTION:stack-->
@@ -44,10 +44,10 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 <!--START_SECTION:stats-->
 <div align="center">
 
-  ![Repos_publics](https://img.shields.io/badge/Repos__publics-5-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
+  ![Repos_publics](https://img.shields.io/badge/Repos__publics-6-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
   ![Etoiles](https://img.shields.io/badge/Etoiles-0-F1C40F?style=for-the-badge&logo=github&logoColor=white)
   ![Langue_principale](https://img.shields.io/badge/Langue__principale-Java-00B894?style=for-the-badge)
-  ![Langues](https://img.shields.io/badge/Langues-10-0984E3?style=for-the-badge)
+  ![Langues](https://img.shields.io/badge/Langues-11-0984E3?style=for-the-badge)
 
 </div>
 <!--END_SECTION:stats-->
@@ -56,9 +56,11 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <!--START_SECTION:activity-->
 1. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-2. ⬆️ 1 commit poussé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
-3. 🗑️ branch supprimé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
-4. ✨ branch créé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+2. ⬆️ 1 commit poussé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
+3. ✨ branch créé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
+4. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+5. ⬆️ 1 commit poussé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
+6. 🗑️ branch supprimé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
