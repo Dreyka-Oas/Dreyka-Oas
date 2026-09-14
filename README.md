@@ -55,12 +55,12 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
-2. ⬆️ 1 commit poussé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
-3. ✨ branch créé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
-4. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-5. ✨ branch créé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
-6. 🗑️ branch supprimé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+1. ⬆️ 1 commit poussé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
+2. ⬆️ 1 commit poussé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
+3. ⬆️ 1 commit poussé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
+4. ✨ branch créé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
+5. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+6. ✨ branch créé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
