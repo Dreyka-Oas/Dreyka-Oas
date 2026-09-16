@@ -55,9 +55,9 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
-2. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
-3. ⬆️ 1 commit poussé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
+1. ⬆️ 1 commit poussé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
+2. ⬆️ 1 commit poussé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
+3. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
 4. ⬆️ 1 commit poussé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
 5. ✨ branch créé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
 6. ✨ branch créé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
