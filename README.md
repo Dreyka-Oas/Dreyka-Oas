@@ -27,11 +27,11 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <div align="center">
 
-  ![Java](https://img.shields.io/badge/Java-65.9%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-65.8%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-14.2%25-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![Svelte](https://img.shields.io/badge/Svelte-9.0%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-4.4%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![GLSL](https://img.shields.io/badge/GLSL-3.1%25-6E7681?style=for-the-badge)
+  ![GLSL](https://img.shields.io/badge/GLSL-3.3%25-6E7681?style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python-1.6%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-0.73%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/JavaScript-0.41%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
