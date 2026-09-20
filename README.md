@@ -22,19 +22,19 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <!--START_SECTION:stack-->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,rust,svelte,ts,c,python,js,css&perline=10" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=java,rust,svelte,ts,c,python,js&perline=10" alt="Stack" />
 </div>
 
 <div align="center">
 
-  ![Java](https://img.shields.io/badge/Java-67.1%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-15.5%25-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/Svelte-9.8%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-4.8%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-67.4%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-15.0%25-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![Svelte](https://img.shields.io/badge/Svelte-9.5%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-4.7%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![C](https://img.shields.io/badge/C-1.1%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-0.69%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-0.45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![CSS](https://img.shields.io/badge/CSS-0.39%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-0.67%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![GLSL](https://img.shields.io/badge/GLSL-0.63%25-6E7681?style=for-the-badge)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0.43%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 <!--END_SECTION:stack-->
@@ -56,8 +56,8 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <!--START_SECTION:activity-->
 1. ⬆️ 1 commit poussé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
-2. ⬆️ 1 commit poussé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
-3. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+2. ⬆️ 1 commit poussé sur [Dreyka-Oas/LethalBreed](https://github.com/Dreyka-Oas/LethalBreed)
+3. ⬆️ 1 commit poussé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
 4. ⬆️ 1 commit poussé sur [Dreyka-Oas/DeepCrate](https://github.com/Dreyka-Oas/DeepCrate)
 5. ✨ branch créé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
 6. ✨ branch créé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
