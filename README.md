@@ -44,7 +44,7 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 <!--START_SECTION:stats-->
 <div align="center">
 
-  ![Repos_publics](https://img.shields.io/badge/Repos__publics-7-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
+  ![Repos_publics](https://img.shields.io/badge/Repos__publics-8-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
   ![Etoiles](https://img.shields.io/badge/Etoiles-0-F1C40F?style=for-the-badge&logo=github&logoColor=white)
   ![Langue_principale](https://img.shields.io/badge/Langue__principale-Java-00B894?style=for-the-badge)
   ![Langues](https://img.shields.io/badge/Langues-11-0984E3?style=for-the-badge)
