@@ -59,7 +59,6 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 2. ⬆️ 1 commit poussé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
 3. ⬆️ 1 commit poussé sur [Dreyka-Oas/lethalbreed-support](https://github.com/Dreyka-Oas/lethalbreed-support)
 4. ✨ branch créé sur [Dreyka-Oas/lethalbreed-support](https://github.com/Dreyka-Oas/lethalbreed-support)
-5. ⬆️ 1 commit poussé sur [Dreyka-Oas/TripodDawn](https://github.com/Dreyka-Oas/TripodDawn)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
