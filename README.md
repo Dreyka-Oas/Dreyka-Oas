@@ -56,7 +56,6 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 
 <!--START_SECTION:activity-->
 1. ✨ branch créé sur [Dreyka-Oas/oascore-support](https://github.com/Dreyka-Oas/oascore-support)
-2. ⬆️ 1 commit poussé sur [Dreyka-Oas/VortexDread](https://github.com/Dreyka-Oas/VortexDread)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
