@@ -44,7 +44,7 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 <!--START_SECTION:stats-->
 <div align="center">
 
-  ![Repos_publics](https://img.shields.io/badge/Repos__publics-8-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
+  ![Repos_publics](https://img.shields.io/badge/Repos__publics-12-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
   ![Etoiles](https://img.shields.io/badge/Etoiles-0-F1C40F?style=for-the-badge&logo=github&logoColor=white)
   ![Langue_principale](https://img.shields.io/badge/Langue__principale-Java-00B894?style=for-the-badge)
   ![Langues](https://img.shields.io/badge/Langues-11-0984E3?style=for-the-badge)
@@ -55,7 +55,9 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ✨ branch créé sur [Dreyka-Oas/oascore-support](https://github.com/Dreyka-Oas/oascore-support)
+1. ✨ branch créé sur [Dreyka-Oas/computetide-support](https://github.com/Dreyka-Oas/computetide-support)
+2. ✨ branch créé sur [Dreyka-Oas/keenears-support](https://github.com/Dreyka-Oas/keenears-support)
+3. ✨ branch créé sur [Dreyka-Oas/oascore-support](https://github.com/Dreyka-Oas/oascore-support)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
