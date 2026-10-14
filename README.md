@@ -55,10 +55,11 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ✨ branch créé sur [Dreyka-Oas/glassgaze-support](https://github.com/Dreyka-Oas/glassgaze-support)
-2. ✨ branch créé sur [Dreyka-Oas/computetide-support](https://github.com/Dreyka-Oas/computetide-support)
-3. ✨ branch créé sur [Dreyka-Oas/keenears-support](https://github.com/Dreyka-Oas/keenears-support)
-4. ✨ branch créé sur [Dreyka-Oas/oascore-support](https://github.com/Dreyka-Oas/oascore-support)
+1. ✨ branch créé sur [Dreyka-Oas/mobslumber-support](https://github.com/Dreyka-Oas/mobslumber-support)
+2. ✨ branch créé sur [Dreyka-Oas/glassgaze-support](https://github.com/Dreyka-Oas/glassgaze-support)
+3. ✨ branch créé sur [Dreyka-Oas/computetide-support](https://github.com/Dreyka-Oas/computetide-support)
+4. ✨ branch créé sur [Dreyka-Oas/keenears-support](https://github.com/Dreyka-Oas/keenears-support)
+5. ✨ branch créé sur [Dreyka-Oas/oascore-support](https://github.com/Dreyka-Oas/oascore-support)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
