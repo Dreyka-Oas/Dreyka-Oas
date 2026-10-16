@@ -53,7 +53,6 @@ Bac à sable perso : jeux, mods et outils testés sans cahier des charges.
 2. ✨ branch créé sur [Dreyka-Oas/glassgaze-support](https://github.com/Dreyka-Oas/glassgaze-support)
 3. ✨ branch créé sur [Dreyka-Oas/computetide-support](https://github.com/Dreyka-Oas/computetide-support)
 4. ✨ branch créé sur [Dreyka-Oas/keenears-support](https://github.com/Dreyka-Oas/keenears-support)
-5. ✨ branch créé sur [Dreyka-Oas/oascore-support](https://github.com/Dreyka-Oas/oascore-support)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
