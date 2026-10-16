@@ -6,19 +6,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Game+Dev+%26+Exp%C3%A9rimentations;Rust+%2F+Java+%2F+JS;Code+is+Art" alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/LetermeFlorent">
-    <img src="https://img.shields.io/badge/PROFIL_PRINCIPAL-@LetermeFlorent-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Profil principal" />
-  </a>
-</p>
-
 </div>
 
-## 🔮 Le laboratoire
+## Le laboratoire
 
-Bac à sable perso, à côté du profil principal : jeux, mods et outils testés sans cahier des charges.
+Bac à sable perso : jeux, mods et outils testés sans cahier des charges.
 
-## 💻 Stack technique
+## Stack technique
 
 <!--START_SECTION:stack-->
 <div align="center">
@@ -39,7 +33,7 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 </div>
 <!--END_SECTION:stack-->
 
-## 📊 GitHub en chiffres
+## GitHub en chiffres
 
 <!--START_SECTION:stats-->
 <div align="center">
@@ -52,7 +46,7 @@ Bac à sable perso, à côté du profil principal : jeux, mods et outils testés
 </div>
 <!--END_SECTION:stats-->
 
-## 📌 Activité récente
+## Activité récente
 
 <!--START_SECTION:activity-->
 1. ✨ branch créé sur [Dreyka-Oas/mobslumber-support](https://github.com/Dreyka-Oas/mobslumber-support)
