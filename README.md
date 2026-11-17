@@ -49,7 +49,7 @@ Bac à sable perso : jeux, mods et outils testés sans cahier des charges.
 ## Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [Dreyka-Oas/Dreyka-Oas](https://github.com/Dreyka-Oas/Dreyka-Oas)
+_Aucune activité publique récente._
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
